@@ -2,6 +2,9 @@
 <div align="center">
 
 <h3> Hi, I'm Lee SeunHyuk 👋</h3>
+
+
+
 <br>
 <br>
 <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&logo=arduino&logoColor=white"/>
@@ -38,5 +41,11 @@
 <br>
 
 ![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=blue_navy)
+</div>
+<div align="center">
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=sh2463)](https://solved.ac/sh2463) 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh2463&theme=warm)
   
 </div>
+
