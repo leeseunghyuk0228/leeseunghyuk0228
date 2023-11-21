@@ -1,13 +1,8 @@
 
 <h3> Hi, I'm Lee SeunHyuk 👋</h3>
 
-my
-name
-is
-lee
-seung
-hyuk
-<br><br><br><br><br><br><br>
+If you wanna see my Tech Blog,<br>
+Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 
 
