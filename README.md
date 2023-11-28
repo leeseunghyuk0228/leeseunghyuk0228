@@ -2,10 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eeb5e1,100:eff0a3&height=120&text=SeungHuyk's%20Github&animation=scaleIn&fontColor=b795af&fontSize=40" />
 </div>  
     
-<h3> Hi, I'm Lee SeunHyuk 👋</h3>
+<h3> Hi, I'm Lee SeungHyuk 👋</h3>
 
-I'm interested in System SoftWare, Embedded System and Algorithm.
-I'll study Linux Kernel, Device Driver and IoT protocols.<br>
+I'm interested in System SoftWare, Embedded System and Algorithm.<br>
+I'll study Linux Kernel, Device Driver and IoT protocols.<br><br>
 
 If you wanna see my Tech Blog,<br>
 Please 👉 [Click Here](https://lsh-story.tistory.com)
