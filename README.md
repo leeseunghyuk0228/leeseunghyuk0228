@@ -1,4 +1,7 @@
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eeb5e1,100:eff0a3&height=120&text=SeungHuyk's%20Github&animation=scaleIn&fontColor=b795af&fontSize=40" />
+</div>  
+    
 <h3> Hi, I'm Lee SeunHyuk 👋</h3>
 
 I'm interested in System SoftWare, Embedded System and Algorithm.
