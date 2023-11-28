@@ -24,12 +24,12 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 20.11 ADsP 데이터분석 준전문가<br><br>
 
 ### ✨ Projects
-19.03 ~ 19.12 ML AI 오목 게임<br>
-20.09 ~ 20.10 Yolov3 활용 식재료 탐지<br>
-23.06 ~ 23.06 무인 탐지 RC카<br>
-23.08 ~ 23.09 MQTT 스마트 공정<br>
-23.09 ~ 23.10 MORAI 시뮬레이터 기반 자율주행 서비스 개발<br>
-23.10 ~ 23.11 Matter 기반 IoT 디바이스 컨트롤러 개발<br><br>
+19.03 ~ 19.12 ML AI 오목 게임 [Not Uploaded]<br>
+20.09 ~ 20.10 Yolov3 활용 식재료 탐지 [Not Uploaded]<br>
+23.06 ~ 23.06 무인 탐지 RC카 [Public]<br>
+23.08 ~ 23.09 MQTT 스마트 공정 [Private]<br>
+23.09 ~ 23.10 MORAI 시뮬레이터 기반 자율주행 서비스 개발 [Private]<br>
+23.10 ~ 23.11 Matter 기반 IoT 디바이스 컨트롤러 개발 [Private]<br><br>
 
 ### 🏆 Prizes <br>
 19.12 우수 졸업 프로젝트 3위<br>
