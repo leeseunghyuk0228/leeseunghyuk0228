@@ -76,7 +76,7 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 <div align="center">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=sh2463)](https://solved.ac/sh2463) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh2463&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh2463&theme=dark)
   
 </div>
 
