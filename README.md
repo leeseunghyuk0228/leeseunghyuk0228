@@ -1,6 +1,9 @@
 
 <h3> Hi, I'm Lee SeunHyuk 👋</h3>
 
+I'm interested in System SoftWare, Embedded System and Algorithm.
+I'll study Linux Kernel, Device Driver and IoT protocols.<br>
+
 If you wanna see my Tech Blog,<br>
 Please 👉 [Click Here](https://lsh-story.tistory.com)
 
@@ -9,9 +12,9 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 
 ### ✍ SW educates 
-14.03 ~ 20.02 항공소프트웨어공학 전공<br>
+14.03 ~ 20.02 항공소프트웨어공학 학사 졸업 전공<br>
 20.03 ~ 20.10 빅데이터와 AI 국비지원 교육 수료<br>
-23.01 ~ 23.12 삼성 청년 SW 아카데미 9기 임베디드 트랙 교육 ing)<br><br>
+23.01 ~ 23.12 삼성 청년 SW 아카데미 9기 임베디드 트랙 교육 ~ing<br><br>
 
 ### 💮 Certificates 
 19.11 정보처리기사<br>
