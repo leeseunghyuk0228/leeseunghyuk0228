@@ -12,8 +12,8 @@ If you wanna see my Tech Blog,<br>
 Please 👉 [Click Here](https://lsh-story.tistory.com)
 <div align= "center">
 
-![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghyuk0228&theme=ambient_gradient)
+![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=calm_pink )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghyuk0228&theme=calm_pink )
 </div>
 
 
