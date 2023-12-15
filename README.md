@@ -1,7 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:eeb5e1,100:eff0a3&height=120&text=SeungHuyk's%20Github&animation=scaleIn&fontColor=b795af&fontSize=40" />
-</div>  
-    
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:eeb5e1,100:eff0a3&height=120&text=SeungHuyk's%20Github&animation=scaleIn&fontColor=b795af&fontSize=40" />
+</div>
+
+</div>       
 <h3> Hi, I'm Lee SeungHyuk 👋</h3>
 
 I'm interested in System SoftWare, Embedded System and Algorithm.<br>
@@ -9,8 +10,11 @@ I'll study Linux Kernel, Device Driver and IoT protocols.<br><br>
 
 If you wanna see my Tech Blog,<br>
 Please 👉 [Click Here](https://lsh-story.tistory.com)
+<div align= "center">
 
-
+![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghyuk0228&theme=ambient_gradient)
+</div>
 
 
 
@@ -71,15 +75,11 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 <br>
 <br>
 
-![gruvbox_repo](https://github-readme-stats.vercel.app/api/pin/?username=leeseunghyuk0228&repo=frist_gist&cache_seconds=86400&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghyuk0228&layout=compact&theme=onedark)
-<br>
-
-![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=great-gatsby)
 </div>
 <div align="center">
-  
+    
+<!--[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2a98dae85b941b3f182fc82417da580c)](https://gist.github.com/leeseunghyuk0228/2a98dae85b941b3f182fc82417da580c/)-->
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=sh2463)](https://solved.ac/sh2463)-->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sh2463)](https://solved.ac/sh2463)
 <br>
