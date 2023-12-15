@@ -71,7 +71,12 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 <br>
 <br>
 
-![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=blue_navy)
+![gruvbox_repo](https://github-readme-stats.vercel.app/api/pin/?username=leeseunghyuk0228&repo=frist_gist&cache_seconds=86400&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseunghyuk0228&layout=compact&theme=onedark)
+<br>
+
+![Leesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeseunghyuk0228&show_icons=true&theme=great-gatsby)
 </div>
 <div align="center">
   
@@ -81,6 +86,6 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sh2463)](https://solved.ac/sh2463)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sh2463&theme=dark)
-  
+
 </div>
 
