@@ -23,21 +23,26 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 - 20.03 ~ 20.10 빅데이터와 AI 국비 지원 교육 수료 (960時)<br>
 - 23.01 ~ 23.12 삼성 청년 SW 아카데미(SSAFY) 9기 임베디드 트랙 교육 수료 (1600時)<br>
 
+
 ### 💮 Certificates 
-- 19.11 정보처리기사<br>
 - 20.11 ADsP 데이터분석 준전문가<br><br>
+- 19.11 정보처리기사<br>
+
 
 ### ✨ Projects
-- 19.03 ~ 19.12 ML AI 오목 게임 [Not Uploaded]<br>
-- 20.09 ~ 20.10 Yolov3 활용 식재료 탐지 [Not Uploaded]<br>
-- 23.06 ~ 23.06 SSAFY 1학기 최종 프로젝트 무인 탐지 RC카 [Public]<br>
-- 23.08 ~ 23.09 [SSAFY 공통 프로젝트] MQTT 스마트 공정 [Private]<br>
-- 23.09 ~ 23.10 [SSAFY 특화 프로젝트] MORAI 시뮬레이터 기반 자율주행 서비스 개발 [Private]<br>
-- 23.10 ~ 23.11 [SSAFY 자율 프로젝트] Matter 기반 IoT 디바이스 컨트롤러 개발 [Private]<br><br>
+- 23.10 ~ 23.11 [SSAFY 자율 프로젝트](https://storm-fear-a9f.notion.site/MATTOPIA-211a17108bf740549269cec3b46a38c7?pvs=4) Matter 기반 IoT 디바이스 컨트롤러 개발 <br>
+- 23.09 ~ 23.10 [SSAFY 특화 프로젝트](https://storm-fear-a9f.notion.site/68c61a8a811940989c3c5e787f96e715?pvs=4) MORAI 시뮬레이터 기반 자율주행 서비스 개발 <br>
+- 23.08 ~ 23.09 [SSAFY 공통 프로젝트](https://storm-fear-a9f.notion.site/33292513531c49588f0938d6c4ab2aaf?pvs=4) MQTT 스마트 공정 <br>
+- 23.06 ~ 23.06 [SSAFY 1학기 프로젝트](https://github.com/leeseunghyuk0228/RCcar) 무인 탐지 RC카 <br>
+- 20.09 ~ 20.10 [ITWill 최종 프로젝트](https://storm-fear-a9f.notion.site/7a515c757827444b8df53a4fb46741e5?pvs=4) 식재료 객체 탐지 기반 레시피 추천<br>
+- 20.07 ~ 20.07 [ITWill 개인 프로젝트](https://github.com/leeseunghyuk0228/Apriori_Corona) 포스트 코로나 취업 동향 분석
+- 19.03 ~ 19.12 [졸업 프로젝트](https://storm-fear-a9f.notion.site/ddc5e4c1056c4faba39eff48c8fbffd8?pvs=4) ML AI 오목 게임<br><br>
+
 
 ### 🏆 Prizes <br>
-- 19.12 우수 졸업 프로젝트 3위<br>
 - 23.10 SSAFY 특화 프로젝트 1위<br>
+- 19.12 우수 졸업 프로젝트 3위<br>
+
 
 <div align="center">
 <br>
@@ -61,6 +66,7 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/ros-22314E?style=flat-square&logo=ros&logoColor=white"/>
+
 <br>
 <br>
 
