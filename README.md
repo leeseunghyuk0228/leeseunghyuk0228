@@ -44,8 +44,9 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 
 ### 🧑‍💻 Career <br>
-- 21.03 ~ 22.09 헤일로에이트 Data본부 사원
 - 24.03 ~       SEMES SW 설계팀
+- 21.03 ~ 22.09 헤일로에이트 Data본부 사원
+
 
 <div align="center">
 <br>
