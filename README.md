@@ -17,7 +17,6 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 </div>
 
 
-
 ### ✍ SW educates 
 - 14.03 ~ 20.02 항공소프트웨어공학 학사 졸업 전공<br>
 - 20.03 ~ 20.10 빅데이터와 AI 국비 지원 교육 수료 (960時)<br>
@@ -43,6 +42,10 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 - 23.10 SSAFY 특화 프로젝트 1위<br>
 - 19.12 우수 졸업 프로젝트 3위<br>
 
+
+### 🧑‍💻 Career <br>
+- 21.03 ~ 22.09 헤일로에이트 Data본부 사원
+- 24.03 ~       SEMES SW 설계팀
 
 <div align="center">
 <br>
