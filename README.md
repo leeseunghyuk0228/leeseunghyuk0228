@@ -24,7 +24,7 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 
 ### 💮 Certificates 
-- 20.11 ADsP 데이터분석 준전문가<br><br>
+- 20.11 ADsP 데이터분석 준전문가<br>
 - 19.11 정보처리기사<br>
 
 
