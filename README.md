@@ -44,7 +44,7 @@ Please 👉 [Click Here](https://lsh-story.tistory.com)
 
 
 ### 🧑‍💻 Career <br>
-- 24.03 ~       SEMES SW 설계팀
+- 24.03 ~       SEMES CLEAN SW 개발팀
 - 21.03 ~ 22.09 헤일로에이트 Data본부 사원
 
 
